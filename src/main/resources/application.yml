@@ -1,0 +1,12 @@
+appName: MeetingRoomScheduler
+---
+spring:
+  profiles: default
+  datasource:
+    initialize: false
+    platform: postgresql
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
+security.require_ssl: false
