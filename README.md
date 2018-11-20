@@ -1,6 +1,6 @@
 # MeetingRoomScheduler
 
-## Essens Case
+
 
 ### INSTALLATION
 
